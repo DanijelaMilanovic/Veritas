@@ -2,7 +2,7 @@
 
 ## About the Project
 
-"Veritas" is a comprehensive Court Case Management System developed to manage legal cases in accordance with the current laws of Bosnia and Herzegovina and the CMS Regulation on Automatic Case Management. This project aims to streamline and automate the case management process in legal institutions.
+"Veritas" is a comprehensive Court Case Management System developed as part of a course during the fourth year at the Faculty of Electrical Engineering in East Sarajevo, under the subject of Information Systems Design. This system is designed to manage legal cases in accordance with the current laws of Bosnia and Herzegovina and the CMS Regulation on Automatic Case Management. The main goal of this project is to streamline and automate the case management process in legal institutions.
 
 ## Project Overview
 
