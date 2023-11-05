@@ -14,9 +14,9 @@
 
 The project includes the following key features and components:
 
-- **Database Model:** A well-structured database model designed to meet the legal requirements, covering case management, historical records, support for role-based access control (RBAC), and logs.
-
 - **Documentation:** Detailed project documentation, including design, implementation, and usage guides, is available in the repository. This documentation helps in understanding the system.
+
+- **Database Model:** A well-structured database model designed to meet the legal requirements, covering case management, historical records, support for role-based access control (RBAC), and logs.
 
 - **Prototype Application:** A working prototype of the application is available in the repository, allowing users to explore the system's functionality.
 
