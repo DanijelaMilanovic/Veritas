@@ -10,9 +10,9 @@
 - **Team Size:** 5 members
 - **My Role:** Project Manager, Software developer and Database Modeler
 
-## Features
+## Content
 
-The project includes the following key features and components:
+The project includes the following key of system:
 
 - **Documentation:** Detailed project documentation, including design, implementation, and usage guides, is available in the repository. This documentation helps in understanding the system.
 
